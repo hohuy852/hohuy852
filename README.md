@@ -39,10 +39,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 📊 Github Stats
 <a href="https://github.com/hohuy852/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hohuy852&repo=github-readme-stats" />
+  <img align="center" src="https://hohuy852-stats.netlify.app/api/pin/?username=hohuy852&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/hohuy852/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hohuy852&repo=convoychat" />
+  <img align="center" src="https://hohuy852-stats.netlify.app/api/pin/?username=hohuy852&repo=convoychat" />
 </a>
 
 
