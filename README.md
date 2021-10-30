@@ -38,22 +38,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 ### 📊 Github Stats
-<!-- <a href='https://github.com/hohuy852/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/hohuy852/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/hohuy852/github-stats-transparent/output/generated/languages.svg)
-
-</a> -->
-
-<br>
-
-
-
-
-
-
-![HoHuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hohuy852&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hohuy852&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hohuy852&repo=convoychat" />
+</a>
 
 
 
