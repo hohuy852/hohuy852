@@ -40,7 +40,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vue/vue.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/vscode/vscode.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
 
