@@ -22,10 +22,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 -->
-<br> 
-<br/>
+
 ### 🔨 Languages and Tools:
- 
+
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
@@ -42,14 +41,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://tailwindcss.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/tailwind/tailwind-css.svg" align="left" alt="git" height='35px'/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/vscode/vscode.svg" align="left" alt="git" height='35px'/> </a>
 
-<br>
-<br>
+<br/>
 
 ### 📊 Github Stats
-<br>
-<br>
-![HoHuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohuy852&layout=compact" align="left" alt="git" width="495" height='195'/> </a>
+<a href="https://github.com/hohuy852">
+ <img src="https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical" align="left" alt="git" width="495" height='195'/>
+<!-- ![HoHuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical) -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohuy852&layout=compact" align="right" alt="git" width="495" height='195'/>
+</a>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hohuy852&layout=compact) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
