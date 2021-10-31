@@ -42,8 +42,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/vscode/vscode.svg" align="left" alt="git" height='35px'/> </a>
 
 <br/>
-
+<br/>
 ### 📊 Github Stats
+<br/>
+<br/>
 <a href="https://github.com/hohuy852">
  <img src="https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical" align="center" alt="git" width="450" height='195'/>
 <!-- ![HoHuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical) -->
