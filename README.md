@@ -46,12 +46,20 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 ### 📊 Github Stats
-<a href="https://github.com/hohuy852/github-readme-stats">
+![HoHuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohuy852&layout=compact" align="left" alt="git" width="495" height='195'/> </a>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hohuy852&layout=compact) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+
+<!-- <a href="https://github.com/hohuy852/github-readme-stats">
   <img align="center" src="https://hohuy852-stats.netlify.app/api/pin/?username=hohuy852&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/hohuy852/convoychat">
   <img align="center" src="https://hohuy852-stats.netlify.app/api/pin/?username=hohuy852&repo=convoychat" />
-</a>
+</a> -->
 
 
 
