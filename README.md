@@ -38,10 +38,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vue/vue.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://tailwindcss.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/tailwind/tailwind.svg" align="left" alt="git" height='42'/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/vscode/vscode.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://tailwindcss.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/tailwind/tailwind.svg" align="left" alt="git" height='40'/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/vscode/vscode.svg" align="left" alt="git" height='40px'/> </a>
 <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/redux/redux.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/vuetify/vuetify.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/vuetify/vuetify.svg" align="left" alt="git" height='40px'/> </a>
 
 <br/>
 <br/>
