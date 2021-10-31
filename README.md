@@ -23,7 +23,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 -->
 
-### 🔨 Languages and Tools:
+## 🔨 Languages and Tools:
 <br/>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -43,7 +43,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-### 📊 Github Stats
+## 📊 Github Stats
 <br/>
 
 <a href="https://github.com/hohuy852">
