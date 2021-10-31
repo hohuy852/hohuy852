@@ -25,7 +25,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🔨 Languages and Tools:
 <br/>
-<br/>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
