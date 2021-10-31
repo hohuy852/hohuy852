@@ -6,7 +6,7 @@
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
-<br/>
+
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
@@ -42,10 +42,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/hohuy852/github-readme-icons/main/main/language_and_tools/square/vscode/vscode.svg" align="left" alt="git" height='35px'/> </a>
 
 <br/>
-<br/>
+
 ### 📊 Github Stats
 <br/>
-<br/>
+
 <a href="https://github.com/hohuy852">
  <img src="https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical" align="center" alt="git" width="450" height='195'/>
 <!-- ![HoHuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical) -->
