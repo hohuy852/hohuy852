@@ -45,7 +45,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 📊 Github Stats
 <a href="https://github.com/hohuy852">
- <img src="https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical" align="center" alt="git" width="450" height='175'/>
+ <img src="https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical" align="center" alt="git" width="450" height='195'/>
 <!-- ![HoHuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohuy852&show_icons=true&theme=radical) -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohuy852&layout=compact" align="right" alt="git" width="350" height='195'/>
 </a>
